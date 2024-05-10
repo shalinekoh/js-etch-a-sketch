@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+}
+
+.grid {
+    border-style: solid;
+}
+
+.form {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.container{
+    height: 960px;
+    width: 960px;
+}
+
+.col {
+    display: flex;
+}
+
+/* .grid {
+    background-color: black;
+} */
